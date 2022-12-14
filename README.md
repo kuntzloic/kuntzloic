@@ -1,6 +1,6 @@
 <table cellpadding="0" style="border: none">
 <tr style="border: none; padding: 0">
-    <td align=center style="border: none"><img alt="Profile image" height="200px" width="200px" style="border-radius: 50%;" src="./assets/profile.png" /></td>
+    <td align=center style="border: none"><img alt="Profile image" height="200px" width="200px" src="./assets/profile_round.png" /></td>
     <td align=center style="border: none"><p>Hello, I am Kuntz Loïc, Back-end Web Developer and student in a<br/>🇫🇷🇩🇪 Franco-German Computer Science program.
         I develop websites<br/>daily using the most current frameworks like Laravel and VueJS.<br/>
         My studies allow me to discover computer development as a whole,<br/>
@@ -9,7 +9,7 @@
 </tr>
 </table>
 <div style="margin: 1em 0;">
-    <h2>Varous technologies I use</h2>
+    <h2>Various technologies I use</h2>
     <div style="display: flex; gap: 0.5em; flex-flow: row wrap; justify-content: center;">
     <img alt="Docker" src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&style=flat-square&logoColor=white&logo=docker" />
     <img alt="Laravel" src="https://img.shields.io/static/v1?label=&color=FF2D20&style=flat-square&logoColor=white&logo=laravel&message=Laravel" />
