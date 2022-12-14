@@ -1,12 +1,13 @@
-<div style="margin: 1em 0 0 0;text-align: center; display:flex; gap: 1em; align-items: center; justify-content: space-around; flex-flow: row wrap;">
-    <img alt="Profile image" height="200px" style="border-radius: 50%;" src="./assets/profile.png" />
-    <p style="text-align: left">Hello, I am Kuntz Loïc, Back-end Web Developer and student in a<br/>🇫🇷🇩🇪 Franco-German Computer Science program.
+<table cellpadding="0" style="border: none">
+<tr style="border: none; padding: 0">
+    <td align=center style="border: none"><img alt="Profile image" height="200px" width="200px" style="border-radius: 50%;" src="./assets/profile.png" /></td>
+    <td align=center style="border: none"><p>Hello, I am Kuntz Loïc, Back-end Web Developer and student in a<br/>🇫🇷🇩🇪 Franco-German Computer Science program.
         I develop websites<br/>daily using the most current frameworks like Laravel and VueJS.<br/>
         My studies allow me to discover computer development as a whole,<br/>
         so I am not only able to develop in Web technologies.
-    </p>
-
-</div>
+        </p></td>
+</tr>
+</table>
 <div style="margin: 1em 0;">
     <h2>Varous technologies I use</h2>
     <div style="display: flex; gap: 0.5em; flex-flow: row wrap; justify-content: center;">
@@ -32,15 +33,3 @@
 </div>
 <h2>My Stats</h2>
 <img alt="Stats profile" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuntzloic&layout=compact" />
-
-<h2>My projects</h2>
-<div style="display: flex; flex-direction: row; justify-content: space-around">
-<div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuntzloic&repo=Reddit-clone-project)](https://github.com/kuntzloic/Reddit-clone-project)
-</div>
-<div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuntzloic&repo=Reddit-clone-project)](https://github.com/kuntzloic/Reddit-clone-project)
-</div>
-</div>
