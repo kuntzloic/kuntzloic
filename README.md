@@ -1,6 +1,6 @@
-<p>Hello, I am Kuntz Loïc, Back-end Web Developer and student in a<br/>🇫🇷🇩🇪 Franco-German Computer Science program.
-        I develop websites<br/>daily using the most current frameworks like Laravel and VueJS.<br/>
-        My studies allow me to discover computer development as a whole,<br/>
+<p>Hello, I am Kuntz Loïc, Back-end Web Developer and student in a 🇫🇷🇩🇪 Franco-German Computer Science program.
+        I develop websites daily using the most current frameworks like Laravel and VueJS. 
+        My studies allow me to discover computer development as a whole,
         so I am not only able to develop in Web technologies.
 </p>
 <div style="margin: 1em 0;">
