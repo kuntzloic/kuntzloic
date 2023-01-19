@@ -26,5 +26,3 @@
     <img alt="Git" src="https://img.shields.io/static/v1?label=&color=F05032&style=flat-square&logoColor=white&logo=git&message=Git" />
     </div>
 </div>
-<h2>My Stats</h2>
-<img alt="Stats profile" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuntzloic&layout=compact" />
