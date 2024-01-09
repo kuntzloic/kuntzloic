@@ -15,7 +15,7 @@
     <img alt="PHP" src="https://img.shields.io/static/v1?label=&color=777BB4&style=flat-square&logoColor=white&logo=PHP&message=PHP" />
     <img alt="Python" src="https://img.shields.io/static/v1?label=&color=3776AB&style=flat-square&logoColor=white&logo=Python&message=Python" />
     <img alt="TypeScript" src="https://img.shields.io/static/v1?label=&color=3178C6&style=flat-square&logoColor=white&logo=TypeScript&message=TypeScript" />
-    <img alt="Java" src="https://img.shields.io/static/v1?label=&color=FFFFFF&style=flat-square&logoColor=black&logo=OpenJDK&message=Java" />
+    <img alt="Java" src="https://img.shields.io/static/v1?label=&color=F4F4F4&style=flat-square&logoColor=black&logo=OpenJDK&message=Java" />
     <img alt="Kubernetes" src="https://img.shields.io/static/v1?label=&color=326CE5&style=flat-square&logoColor=white&logo=Kubernetes&message=Kubernetes" />
     <img alt="MySQL" src="https://img.shields.io/static/v1?label=&color=4479A1&style=flat-square&logoColor=white&logo=MySQL&message=MySQL" />
     <img alt="SQLite" src="https://img.shields.io/static/v1?label=&color=003B57&style=flat-square&logoColor=white&logo=SQLite&message=SQLite" />
